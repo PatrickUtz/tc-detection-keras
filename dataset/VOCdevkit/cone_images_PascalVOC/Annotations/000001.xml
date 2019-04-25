@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw Cone Images</folder>
+	<filename>1.jpg</filename>
+	<path>/Users/patrickutz/Desktop/Raw Cone Images/1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>29</ymin>
+			<xmax>321</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

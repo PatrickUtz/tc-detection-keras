@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cone_images_Pascal VOC (XML)</folder>
+	<filename>21.jpg</filename>
+	<path>/Users/patrickutz/Desktop/cone_images_Pascal VOC (XML)/21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_cone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>5</ymin>
+			<xmax>336</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
