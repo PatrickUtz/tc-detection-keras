@@ -1,5 +1,5 @@
 # tc-detection-keras
-This is an implementation of Single Shot Detection (SSD) object detection using Keras to detect Traffic Cones. The original code was taken from pierluigiferrari and can be found here: https://github.com/pierluigiferrari/ssd_keras
+This is an implementation of Single Shot Detection (SSD) object detection using Keras to detect traffic cones. The original code was taken from pierluigiferrari and can be found here: https://github.com/pierluigiferrari/ssd_keras
 
 A few things to note:
 
