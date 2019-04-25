@@ -4,5 +4,5 @@ This is an implementation of Single Shot Detection (SSD) object detection using 
 A few things to note:
 
 - the only fulling working piece of code is ssd300_training.ipynb which is trained on the PASCAL VOC 2007 and 2012 dataset
-- ssd300_training-trafficCone.ipynb is the modified version of ssd300_training.ipynb and is meant to work with the traffic cone dataset
-- all current issues are marked in the "Issues" section
+- ssd300_training-trafficCone.ipynb is the modified version of ssd300_training.ipynb and is meant to work with the traffic cone dataset which can be found under the "dataset" folder
+- all current issues are marked in the "Issues" section including a list of files that are not on this GitHub repository since they exceed the upload limit of 100 MB
